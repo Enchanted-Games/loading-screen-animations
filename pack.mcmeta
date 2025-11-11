@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "min_format": 68,
+    "max_format": 74,
+    "description": [
+      "",
+      {
+        "text": "animations\n",
+        "color": "#f2a2ba"
+      },
+      {
+        "text": "v1.0 | by "
+      },
+      {
+        "player": {
+          "name": "Enchanted_Games"
+        },
+        "color": "white"
+      },
+      {
+        "text": " Enchanted_Games"
+      }
+    ]
+  }
+}
