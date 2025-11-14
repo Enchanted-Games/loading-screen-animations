@@ -9,7 +9,6 @@ in vec3 xyzPos;
 
 out vec4 fragColor;
 
-#moj_import <minecraft:globals.glsl>
 #moj_import <eg_loading_screen_animations:gui_element.fsh>
 
 void main() {
